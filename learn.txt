@@ -1,0 +1,40 @@
+Our Future Topics 
+        ..... Pure Javascipt...................
+1) How to fetch data from a sever 
+2) How to work with DOM 
+3) How to work with aync and awiat 
+4) working with three type of funtions 
+5) working with loop , and types of loops 
+6) building project in pure javascipt with dom 
+7) knowing some thoery apect of javascipt
+8) how to work with high order array
+9) how to work with Destructuring 
+10) how to work with spread operator 
+
+
+..............          Javascipt Framework       ..................
+React .....
+
+how to work with funtions
+how to fetch data , 
+how to work with Destructuring 
+how to work with high order array
+
+...........................................................
+
+
+
+................................ Nodejs ........................................
+
+
+
+............................................
+
+
+
+..........................Pyhton ...........................................
+
+
+
+
+............................................................
