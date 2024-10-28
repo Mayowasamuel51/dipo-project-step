@@ -8,9 +8,10 @@ Our Future Topics
 6) building project in pure javascipt with dom 
 7) knowing some thoery apect of javascipt
 8) how to work with high order array
+        (filter , map , some , every , forEach)
 9) how to work with Destructuring 
 10) how to work with spread operator 
-11) revision ( variable , functions , types of functions , dom ,  css Framework , )
+11) revision ( variable , functions , types of functions , dom ,  css Framework , Array )
 
 
 
