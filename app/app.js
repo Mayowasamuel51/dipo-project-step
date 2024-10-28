@@ -32,11 +32,15 @@ const main_group = {
 console.log(main_group.mymethod(3))  //explain this code for me 
 
 
-
 // () === it means it a method or a function
 
-
-// remember you can store data in , 
+// Remember you can store data in , 
 // Array,
 // Object
 // Mutiple Object in Array   /// make a research on this 
+
+
+
+for(let i = 0; i < names.length; i++){
+    console.log(names[i])
+}  // explian this code too 
