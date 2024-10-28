@@ -10,12 +10,12 @@ Our Future Topics
 8) how to work with high order array
 9) how to work with Destructuring 
 10) how to work with spread operator 
+11) revision ( variable , functions , types of functions , dom ,  css Framework , )
 
 
 
 ..............          Javascipt Framework       ..................
 React .....
-
 how to work with funtions
 how to fetch data , 
 how to work with Destructuring 
